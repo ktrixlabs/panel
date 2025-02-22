@@ -1,4 +1,4 @@
-![\[!image\](https://i.imgur.com/SU7QypZ.png)](https://i.imgur.com/SU7QypZ.png)
+![\[!image\](https://i.imgur.com/SU7QypZ.png)]([https://i.imgur.com/SU7QypZ.png](https://cdn.discordapp.com/attachments/1317524043984797757/1342718339847553064/Picsart_25-02-22_10-42-52-613.jpg?ex=67baa766&is=67b955e6&hm=67e8d1f9d6a8c9bd1684843b4ec6a443c31e20008ff5c8fad550a6c456b52c78&))
 
 ![Discord](https://img.shields.io/discord/1253782902618194011?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/skyportlabs/panel?style=for-the-badge)
