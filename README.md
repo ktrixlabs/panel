@@ -1,4 +1,4 @@
-# Ketrix Panel
+# Socials
 
 ![Discord](https://img.shields.io/discord/1253782902618194011?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/skyportlabs/panel?style=for-the-badge)
